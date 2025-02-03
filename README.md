@@ -4,7 +4,7 @@ My favorite topic is AI.
 
 <div align = "left">
   <a href="mailto:ghju516@naver.com" target="_blank">
-  <img alt="gmail" src ="https://img.shields.io/badge/gmail-00AF66.svg?&style=flat-square&logo=gmail&logoColor=white"/>  </a>
+  <img alt="mail" src ="https://img.shields.io/badge/gmail-00AF66.svg?&style=flat-square&logo=gmail&logoColor=white"/>  </a>
 
   <a href="https://jukumi-in-fire.tistory.com/" target="_blank">
   <img alt="tistory" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/>  </a>
