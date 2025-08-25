@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&section=header&text=jukumio" />
-Hello, welcome to my github. I'm student of Incheon National University, major in Computer Science.
-My favorite topic is AI. 
+Since 2022.
 
 <div align = "left">
   <a href="mailto:ghju516@naver.com" target="_blank">
@@ -11,10 +10,9 @@ My favorite topic is AI.
 </div>
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukumio)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukumio&layout=compact&theme=cobalt"/>
+  
   <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=graywhite" alt="jukumio's GitHub stats" />
-  </div>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=cobalt" alt="jukumio's GitHub stats" />
+  </div>  
 </div>
