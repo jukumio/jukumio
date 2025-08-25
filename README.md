@@ -10,8 +10,11 @@ My favorite topic is AI.
   <img alt="blog" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/>  </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukumio)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukumio)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=graywhite" alt="jukumio's GitHub stats" />
+  <div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=graywhite" alt="jukumio's GitHub stats" />
+  </div>
+
 </div>
