@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&section=header&text=jukumio" />
-Since 2022.
+## Since 2022. ##
 
 <div align = "left">
   <a href="mailto:ghju516@naver.com" target="_blank">
@@ -9,10 +9,7 @@ Since 2022.
   <img alt="blog" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/>  </a>
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukumio&layout=compact&theme=cobalt"/>
-  
-  <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=cobalt" alt="jukumio's GitHub stats" />
-  </div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=cobalt" alt="jukumio's GitHub stats" />
 </div>
