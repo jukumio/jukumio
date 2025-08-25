@@ -11,3 +11,7 @@ My favorite topic is AI.
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukumio)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jukumio&show_icons=true&theme=graywhite" alt="jukumio's GitHub stats" />
+</div>
